@@ -7,5 +7,5 @@ setup(
     url='git@github.com:RaymRaym/exp_pymodule.git',
     author='rw',
     license='unlicense',
-    packages=['folder1'],
+    packages=['folder2'],
 )
